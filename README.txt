@@ -1,5 +1,5 @@
 # Aplicação funciona como producer e consumer
-# Utilizando activemq
+# Utilizando activemq http://localhost:8161/admin/queues.jsp
 
 # Exemplo
 
