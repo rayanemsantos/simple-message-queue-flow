@@ -1,0 +1,7 @@
+Flask
+flask_cors
+flask_restful
+marshmallow
+pika==1.1.0 
+Flask-Script
+Flask-Mail
